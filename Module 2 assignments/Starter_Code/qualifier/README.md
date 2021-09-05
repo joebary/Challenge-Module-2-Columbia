@@ -30,6 +30,7 @@ run: pip install -r requirements.txt in your shell.
 
 This section should include screenshots, code blocks, or animations showing how your project works.
 
+![Module 2](https://user-images.githubusercontent.com/64050486/132134024-299f06ed-95a9-4492-86de-82b56ae64735.jpeg)
 
 ![alt text]()
 ![alt text]()
@@ -50,7 +51,7 @@ This section should include screenshots, code blocks, or animations showing how 
 
 ## Contributors
 
-Joe
+Youssef Said
 
 ---
 
