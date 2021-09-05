@@ -7,6 +7,7 @@ This script filters a bank list by the user's minimum credit score.
 
 
 def filter_credit_score(credit_score, bank_list):
+    
     """Filters the bank list by the mininim allowed credit score set by the bank.
 
     Args:
